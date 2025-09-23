@@ -52,8 +52,7 @@ def show_home():
     button_start = Button(canvas, text="Start",command=middle_page,height=2,width=12,font=('Arial', 14,'bold'),bd=0,highlightthickness=0,fg='#91ADC8')
     canvas.create_window(500,390, window=button_start)
 
-    button_works = Button(canvas, text="My Works",height=2,width=12,font=('Arial', 14,'bold'),bd=0,highlightthickness=0,fg='#91ADC8')
-    canvas.create_window(500, 460, window=button_works)
+    
     
 def middle_page():
     # Remove all existing widgets
