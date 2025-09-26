@@ -46,8 +46,7 @@ A simple Python GUI application to add watermarks and logos to images. Built usi
 ## Usage
 1. **Clone this repository:**
 
-git clone https://github.com/Umid-R/ImageWatermarker.git
-
+git clone https://github.com/Umid-R/WaterMarker.git
 2. **Install dependies:**
 pip install -r requirements.txt
 
